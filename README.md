@@ -3,6 +3,8 @@ Kinect Common Bridge
 
 ## Introduction
 
+Testing
+
 Kinect Common Bridge is a complement to the Kinect for Windows SDK that makes it easy to integrate Kinect scenarios in creative development libraries and toolkits
 
 ## Requirements
